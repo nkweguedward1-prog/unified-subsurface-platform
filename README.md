@@ -21,7 +21,7 @@ flowchart TD
     CM --> QC["QC and provenance"]
 ```
 
-The canonical model—not an individual scientific engine—is the source of truth. Simulation models, cases, and executed runs are represented as separate governed objects.
+The canonical model—not an individual scientific engine—is the source of truth. Simulation models, cases, and executed runs are represented as separate governed objects. See the [architecture overview](docs/architecture.md) for details.
 
 ## Verified foundation
 
